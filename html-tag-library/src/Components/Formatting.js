@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Formatting extends React.Component  {
+class Formatting extends Component  {
 
     constructor() {
         super();

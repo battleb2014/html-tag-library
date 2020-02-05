@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Meta extends React.Component {
+class Meta extends Component {
 
     constructor() {
         super()

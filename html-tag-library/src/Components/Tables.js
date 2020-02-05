@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Tables extends React.Component {
+class Tables extends Component {
 
     constructor() {
         super()

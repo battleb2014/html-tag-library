@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class AudioVideo extends React.Component {
+class AudioVideo extends Component {
 
     constructor() {
         super();

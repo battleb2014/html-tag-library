@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import All from './Components/All';
 import AudioVideo from './Components/AudioVideo';
 import Basic from './Components/Basic';

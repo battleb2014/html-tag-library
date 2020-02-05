@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class FormsAndInputs extends React.Component {
+class FormsAndInputs extends Component {
 
     constructor() {
         super()

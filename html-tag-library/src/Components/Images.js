@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Images extends React.Component {
+class Images extends Component {
 
     constructor() {
         super();

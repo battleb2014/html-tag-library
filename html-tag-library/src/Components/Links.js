@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Links extends React.Component {
+class Links extends Component {
 
     constructor() {
         super();

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Lists extends React.Component {
+class Lists extends Component {
     
 constructor() {
     super();

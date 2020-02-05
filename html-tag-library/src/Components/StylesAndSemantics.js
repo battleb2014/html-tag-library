@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class StylesAndSemantics extends React.Component {
+class StylesAndSemantics extends Component {
     
     constructor() {
         super()

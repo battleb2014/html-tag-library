@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class All extends React.Component {
+class All extends Component {
 
     constructor() {
         super()

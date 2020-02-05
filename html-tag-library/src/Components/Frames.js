@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Frames extends React.Component {
+class Frames extends Component {
 
     constructor() {
         super();
