@@ -2,9 +2,11 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header>
-      
-    </header>
+    <div>
+      <header>
+        <h1>HTML Tag Library</h1>
+      </header>
+    </div>
   );
 }
 

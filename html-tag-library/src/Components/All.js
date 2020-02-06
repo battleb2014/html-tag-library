@@ -27,12 +27,12 @@ closeList() {
     render() {
         return (
             <div>
-                <button onClick={ this.openList }>All</button><br /> <br /><br />
+                <button onClick={ this.openList }>All</button>
                     
                     {
                         this.state.showList
                             ?(
-                                <div className='list'>
+                                <div className='tags'>
                                     <span><strong>&lt;!Doctype&gt;</strong>:Defines the document type</span><br /><br />
                                     <span><strong>&lt;html&gt;</strong>: Defines an HTML document</span><br /><br />
                                     <span><strong>&lt;title&gt;</strong>: Defines the title for a document</span><br /><br />
