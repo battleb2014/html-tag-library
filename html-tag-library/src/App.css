@@ -14,7 +14,7 @@ body {
 
 header {
   display: flex;
-  text-align: center;
+  justify-content: center;
   height: 8em;
   width: 75%;
   margin: 0 12.5%;
@@ -70,9 +70,7 @@ button:hover {
 }
 
 .wrap {
-  background-image: url('https://images.unsplash.com/photo-1506609762754-bf3a1b5a4d7b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #eaeaea;
 }
 
 @media only screen and (min-width: 1000px) {
