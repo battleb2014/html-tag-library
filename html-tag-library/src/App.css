@@ -3,10 +3,6 @@
   padding: 0;
 }
 
-*:focus{
-  outline: 0 !important;
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -52,6 +48,7 @@ button:hover {
 }
 
 .body {
+  margin: 0;
   text-align: center;
 }
 
@@ -59,7 +56,6 @@ button:hover {
   background-color: #E1E1E1;
   border-radius: 25px;
   width: 75%;
-  margin: 0 12.5%;
   max-height: 15em;
   overflow: scroll;
   padding: 3em 0;
